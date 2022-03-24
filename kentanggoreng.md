@@ -2,6 +2,6 @@
 ## Alat
 1. Panci
 2. Wajan
-3. asu goreng
+3. air goreng
 
 ### Selesai
